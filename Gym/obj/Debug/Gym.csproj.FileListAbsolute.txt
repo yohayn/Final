@@ -1,0 +1,39 @@
+D:\projects\Gym\Gym\bin\Debug\Gym.exe.config
+D:\projects\Gym\Gym\obj\Debug\Gym.csprojResolveAssemblyReference.cache
+D:\projects\Gym\Gym\obj\Debug\Gym.frmAddTrainee.resources
+D:\projects\Gym\Gym\obj\Debug\Gym.Properties.Resources.resources
+D:\projects\Gym\Gym\obj\Debug\Gym.csproj.GenerateResource.Cache
+D:\projects\Gym\Gym\bin\Debug\Gym.exe
+D:\projects\Gym\Gym\bin\Debug\Gym.pdb
+D:\projects\Gym\Gym\obj\Debug\Gym.exe
+D:\projects\Gym\Gym\obj\Debug\Gym.pdb
+D:\eyal\new\21-01-01-15\Gym\bin\Debug\Gym.exe.config
+D:\eyal\new\21-01-01-15\Gym\obj\Debug\Gym.exe
+D:\eyal\new\21-01-01-15\Gym\obj\Debug\Gym.pdb
+D:\eyal\new\21-01-01-15\Gym\obj\Debug\Gym.frmAddTrainee.resources
+D:\eyal\new\21-01-01-15\Gym\obj\Debug\GYM.frmSecretary.resources
+D:\eyal\new\21-01-01-15\Gym\obj\Debug\Gym.Properties.Resources.resources
+D:\eyal\new\21-01-01-15\Gym\obj\Debug\Gym.csproj.GenerateResource.Cache
+D:\eyal\new\21-01-01-15\Gym\bin\Debug\Gym.exe
+D:\eyal\new\21-01-01-15\Gym\bin\Debug\Gym.pdb
+D:\eyal\new\21-01-01-15\Gym\obj\Debug\Gym.frmTraineesManagement.resources
+D:\eyal\new\21-01-01-15\Gym\obj\Debug\Gym.frmMain.resources
+D:\eyal\new\21-01-01-15\Gym\obj\Debug\Gym.frmTrainee.resources
+C:\Users\Yohay_Nahari\Documents\Visual Studio 2013\Projects\21-01-01-20\Gym\bin\Debug\Gym.exe.config
+C:\Users\Yohay_Nahari\Documents\Visual Studio 2013\Projects\21-01-01-20\Gym\obj\Debug\Gym.exe
+C:\Users\Yohay_Nahari\Documents\Visual Studio 2013\Projects\21-01-01-20\Gym\obj\Debug\Gym.pdb
+C:\Users\Yohay_Nahari\Documents\Visual Studio 2013\Projects\21-01-01-20\Gym\obj\Debug\Gym.csprojResolveAssemblyReference.cache
+C:\Users\Yohay_Nahari\Documents\Visual Studio 2013\Projects\21-01-01-20\Gym\obj\Debug\Gym.frmAddTrainee.resources
+C:\Users\Yohay_Nahari\Documents\Visual Studio 2013\Projects\21-01-01-20\Gym\obj\Debug\Gym.frmMain.resources
+C:\Users\Yohay_Nahari\Documents\Visual Studio 2013\Projects\21-01-01-20\Gym\obj\Debug\GYM.frmSecretary.resources
+C:\Users\Yohay_Nahari\Documents\Visual Studio 2013\Projects\21-01-01-20\Gym\obj\Debug\Gym.frmTrainee.resources
+C:\Users\Yohay_Nahari\Documents\Visual Studio 2013\Projects\21-01-01-20\Gym\obj\Debug\Gym.frmTraineesManagement.resources
+C:\Users\Yohay_Nahari\Documents\Visual Studio 2013\Projects\21-01-01-20\Gym\obj\Debug\Gym.ItemForm.resources
+C:\Users\Yohay_Nahari\Documents\Visual Studio 2013\Projects\21-01-01-20\Gym\obj\Debug\Gym.Properties.Resources.resources
+C:\Users\Yohay_Nahari\Documents\Visual Studio 2013\Projects\21-01-01-20\Gym\obj\Debug\Gym.PurchaseItemsForm.resources
+C:\Users\Yohay_Nahari\Documents\Visual Studio 2013\Projects\21-01-01-20\Gym\obj\Debug\Gym.csproj.GenerateResource.Cache
+C:\Users\Yohay_Nahari\Documents\Visual Studio 2013\Projects\21-01-01-20\Gym\bin\Debug\Gym.exe
+C:\Users\Yohay_Nahari\Documents\Visual Studio 2013\Projects\21-01-01-20\Gym\bin\Debug\Gym.pdb
+C:\Users\Yohay_Nahari\Documents\Visual Studio 2013\Projects\21-01-01-20\Gym\obj\Debug\Gym.View.ManagerForm.resources
+C:\Users\Yohay_Nahari\Documents\Visual Studio 2013\Projects\21-01-01-20\Gym\obj\Debug\Gym.View.PopUp.resources
+C:\Users\Yohay_Nahari\Documents\Visual Studio 2013\Projects\21-01-01-20\Gym\obj\Debug\Gym.frmActivitiesDetails.resources
